@@ -1,7 +1,9 @@
-<img src="https://ibb.co/DH3N4Lyr" alt="logo" target="/blank">
+![Image](https://github.com/user-attachments/assets/b14b0123-83a0-4a39-b302-b9ddf97a9071)
+
+"
 
 <h1 align="center">
- <b><a href="https://t.me/autorenamexbot" target="/blank"> Auto Rename Bot </a></>
+ <b><a href="https://t.me/BOTSKINGDOMS" target="/blank"> Auto Rename Bot </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
@@ -85,6 +87,6 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 
 ### ❤️ RESPECTING ❤️
-- [Seishiro](https://github.com/seishiroxxnotteam)
+- [BOTS KINGDOM TEAM](https://t.me/BOTSKINGDOMS)
 
 
