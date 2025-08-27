@@ -10,7 +10,7 @@ from route import web_server
 import pyrogram.utils
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-pyrogram.utils.MIN_CHANNEL_ID = -1002822095762
+pyrogram.utils.MIN_CHANNEL_ID = -1003083608382
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "@botskingdomschat")
 
 class Bot(Client):
